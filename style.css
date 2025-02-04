@@ -1,7 +1,9 @@
 html {
-    font-size: 16px
+    font-size: 20px
 }
 body {
-    background-color: rgb(249, 248, 244);
-    color: rgb(80, 55, 5);
+    /* background-color: rgb(249, 248, 244); */
+    background-color: #f8f6f1;
+    /* color: rgb(80, 55, 5); */
+    color: reg(31, 25, 25);
 }
